@@ -1,6 +1,9 @@
 windows下双击运行bookManager.exe文件
+
 或者配置java环境后双击运行bookManager.jar文件（命令窗口运行也可以）
+
 **注：每一项操作执行后可能需要等待几秒**
+
 附：[GitHub仓库](https://github.com/casual-qian/BookManager)
 ## 登录
 ![](https://casual-qian.github.io/img/openGauss/%E5%9B%BE%E4%B9%A6%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/%E7%99%BB%E5%BD%95.png)
@@ -43,6 +46,7 @@ qian|12581
 ![](https://casual-qian.github.io/img/openGauss/%E5%9B%BE%E4%B9%A6%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/%E5%9B%BE%E4%B9%A6%E7%B1%BB%E5%88%AB%E7%BB%B4%E6%8A%A44.png)
 
 修改或删除不符合要求会有相应的提示信息
+
 ![](https://casual-qian.github.io/img/openGauss/%E5%9B%BE%E4%B9%A6%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/%E5%9B%BE%E4%B9%A6%E7%B1%BB%E5%88%AB%E7%BB%B4%E6%8A%A4%E9%94%99%E8%AF%AF.png)
 
 ## 图书添加
@@ -53,6 +57,7 @@ qian|12581
 ![](https://casual-qian.github.io/img/openGauss/%E5%9B%BE%E4%B9%A6%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/%E5%9B%BE%E4%B9%A6%E6%B7%BB%E5%8A%A01.png)
 
 添加的图书不符合要求会有相应的提示信息
+
 ![](https://casual-qian.github.io/img/openGauss/%E5%9B%BE%E4%B9%A6%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/%E5%9B%BE%E4%B9%A6%E6%B7%BB%E5%8A%A0%E9%94%99%E8%AF%AF.png)
 
 ## 图书维护
@@ -72,6 +77,7 @@ qian|12581
 ![](https://casual-qian.github.io/img/openGauss/%E5%9B%BE%E4%B9%A6%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/%E5%9B%BE%E4%B9%A6%E7%BB%B4%E6%8A%A44.png)
 
 修改或删除不符合要求会有相应的提示信息
+
 ![](https://casual-qian.github.io/img/openGauss/%E5%9B%BE%E4%B9%A6%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/%E5%9B%BE%E4%B9%A6%E7%BB%B4%E6%8A%A4%E9%94%99%E8%AF%AF.png)
 
 ## 退出
